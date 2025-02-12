@@ -1,4 +1,4 @@
-Tom Hanks 35500 10.11.2024
+Tom Hawks 35500 10.11.2024
 Rebecca Williams 85000 1.1.2024
 Sally Field 75600 15.8.2024
 Michael Humphreys 29400 23.5.2024
@@ -7,7 +7,7 @@ George Kelly 45000 12.3.2024
 Bob Penny 42500 13.5.2024
 John Randall 23400 2.10.2024
 Sam Anderson 6500 15.7.2024
-Margo Moon 12350 24.2.2019
+Margo Moon 12350 24.2.2024
 Arnold Mirny 75455 30.6.2024
 Boris Razor 28740 1.2.2024
 Adam Green 17545 15.5.2024
